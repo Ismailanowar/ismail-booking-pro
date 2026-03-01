@@ -22,3 +22,5 @@ Custom WordPress plugin to manage bookings with admin approval, edit, delete, an
 - Filter bookings by status using the dropdown.
 - Edit or delete bookings securely.
 - Status badges display booking status clearly.
+- ## Shortcord For Form
+- [ibp_booking_form]
